@@ -368,8 +368,8 @@ label { font-size: 14px; }
 }
 .ttm_single_image-wrapper.imagestyle-two .ttm_single_image_text:before {
     background-color: #db2d46;
-    -webkit-mask: url(/images/image-arrow.svg) no-repeat 100% 100%;
-    -webkit-mask-box-image: url(/images/image-arrow.svg);
+    -webkit-mask: url(../images/image-arrow.svg) no-repeat 100% 100%;
+    -webkit-mask-box-image: url(../images/image-arrow.svg);
     content: '';
     position: absolute;
     width: 90px;
@@ -2051,7 +2051,7 @@ nav.main-menu .megamenu-content .title{
     left: -15px;
     right: -15px;
     height: 17px;
-    z-index: -1;6
+    z-index: -1;
 }
 
 @media only screen and (max-width: 1200px){ 
